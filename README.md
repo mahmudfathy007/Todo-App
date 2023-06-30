@@ -112,9 +112,6 @@ Please refer to the API documentation or the source code for more details on req
 
 Contributions to the TodoApp are welcome. If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
 
-## License
-
-The TodoApp is open-source and released under the [MIT License](LICENSE).
 
 ## Contact
 
