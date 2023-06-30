@@ -3,7 +3,7 @@ import { StyleSheet, View, TextInput, TouchableOpacity, Text } from "react-nativ
 import axios from 'axios';
 import { useNavigation } from "@react-navigation/native";
 
-const baseUrl = "http://192.168.1.2:3000"; // Replace with your server's base URL
+const baseUrl = "http://192.168.1.2:3000"; 
 
 // ... imports
 

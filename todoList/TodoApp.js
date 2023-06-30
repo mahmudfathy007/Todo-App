@@ -3,7 +3,7 @@ import { KeyboardAvoidingView, StyleSheet, Text, View, TextInput, TouchableOpaci
 import Task from './components/Task';
 import axios from 'axios';
 
-const baseUrl = "http://192.168.1.2:3000"; // Replace with your server's base URL
+const baseUrl = "http://192.168.1.2:3000"; 
 
 export default function Todo({ loggedInUser }) {
   const [task, setTask] = useState('');

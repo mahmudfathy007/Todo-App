@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { StyleSheet, View, TextInput, TouchableOpacity, Text } from "react-native";
 import axios from 'axios';
 
-const baseUrl = "http://192.168.1.2:3000"; // Replace with your server's base URL
+const baseUrl = "http://192.168.1.2:3000"; 
 
 export default function Signup({ onSignup, toggleLogin }) {
   const [userName, setuserName] = useState("");
